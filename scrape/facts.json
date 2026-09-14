@@ -1,0 +1,15 @@
+{
+  "scraped_at": "2026-09-09",
+  "official_url": "https://www.canalstdental.com/",
+  "name": "Canal Street Family Dentistry",
+  "nap": {
+    "street": "2752 Canal St",
+    "city": "New Orleans",
+    "region": "LA",
+    "postal": "70119",
+    "phone": "(504) 822-8890",
+    "phone_e164": "+1-504-822-8890"
+  },
+  "doctor": { "name": "Dr. Rayfield Lotten", "credential": "DDS" },
+  "services_official": ["Dental Cleanings", "Crown & Bridge", "Whitening", "Dental Implants", "Tooth Extractions", "Esthetic Bonding", "3D Printed Dentures", "Dental Filling", "Denture Repair", "Kid's Dentistry"]
+}
